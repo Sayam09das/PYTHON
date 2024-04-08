@@ -1,0 +1,7 @@
+file=open("G:\\html\\my_Web_page\\python\\File Handing\\File Handing ReadLine\\file.txt","r")
+read_line=file.read()
+read_line1=file.readline()
+read_line2=file.readline()
+print(read_line)
+print(read_line1)
+print(read_line2)
